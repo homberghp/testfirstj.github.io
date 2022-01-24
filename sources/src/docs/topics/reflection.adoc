@@ -1,5 +1,5 @@
 
-[big]#Reclection or class introspection is used to leverage the infomation that is avialable in classes. Using the information that is
+[big]#Reflection or class introspection is used to leverage the infomation that is avialable in classes. Using the information that is
 available about a class and by implication about the instances of the class can help to avoid _copy-and-waste_ programming.
 It helps keeping the code https://en.wikipedia.org/wiki/Don%27t_repeat_yourself[DRY]#
 
